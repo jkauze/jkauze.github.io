@@ -3,7 +3,6 @@ var i = 0;
 var text, isTag;
 var speed = 24;
 var idhtml = 'console'
-var random = true
 
 // Typer get the .txt to read the content
 var Typer = {
