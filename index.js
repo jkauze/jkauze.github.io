@@ -1,7 +1,7 @@
 // Speed: typerSpeed | isTag: Boolean (to not take the html in txt) | text => text to read/show
 var i = 0;
 var text, isTag;
-var speed = 9;
+var speed = 24;
 var idhtml = 'console'
 
 // Typer get the .txt to read the content
