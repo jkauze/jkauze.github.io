@@ -1,0 +1,46 @@
+<span id="pink">[FRONTEND]</span>
+Angular 8 <span id="pink">|</span>
+Django <span id="pink">|</span>
+HTML <span id="pink">|</span>
+Javascript <span id="pink">|</span>
+CSS <span id="pink">|</span>
+handlerbars <span id="pink">|</span>
+webpack
+<br /><br />
+
+<span id="pink">[BACKEND]</span>
+NodeJs <span id="pink">|</span>
+Django <span id="pink">|</span>
+Firebase/Firestore <span id="pink">|</span>
+PostgreSql <span id="pink">|</span>
+MongoDB
+<br /><br />
+
+<span id="pink">[DEVOPS]</span>
+Docker <span id="pink">|</span>
+Jenkins CI/CD<span id="pink">|</span>
+Ansible <span id="pink">|</span>
+Terraform <span id="pink">|</span>
+Kubernetes <span id="pink">|</span>
+Aws: EC2, ECC, RDS <span id="pink">|</span>
+Digital Ocen <span id="pink">|</span>
+Vercel now
+<br /><br />
+
+<span id="pink">[HIBRYD APPS]</span>
+Ionic 4 <span id="pink">|</span>
+<br /><br />
+
+<span id="pink">[Others]</span>
+Git <span id="pink">|</span>
+Python <span id="pink">|</span>
+Java <span id="pink">|</span>
+Bash <span id="pink">|</span>
+Networking <span id="pink">|</span>
+Gnu/Linux
+<br /><br />
+
+<span id="green">Jesus@Kauze</span>:<span id="pink">~/About_me</span>
+<span id="dollar">$</span> exit <br />
+
+<p>G00dBy3 My <span id="goodbye">Fr13Nd</span>...</p>

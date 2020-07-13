@@ -1,0 +1,7 @@
+Abort.
+<br /> <br />
+
+<span id="green">Jesus@Kauze</span>:<span id="pink">~/About_me</span>
+<span id="dollar">$</span> exit <br />
+
+<p>GoodBye My <span id="goodbye">Fr13Nd</span>...</p>

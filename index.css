@@ -1,0 +1,62 @@
+body {
+	background-color: #1d1f1d
+}
+
+#console {
+	font-family: courier, monospace;
+	color: #fff;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+	font-size:14px;
+}
+
+#skillsconsole {
+	font-family: courier, monospace;
+	color: #fff;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	font-size:14px;
+}
+
+a {
+	color: #0bc;
+	text-decoration: none;
+}
+
+#goodbye {
+	color: #0bc;
+	text-decoration: none;
+}
+
+#green {
+	color: #0f0;
+}
+
+#dollar {
+	color: #0bc;
+}
+
+#pink {
+	color: #ff0096;
+}
+
+#op{
+    	color: #888888
+}
+
+input[type=text] {
+    border: none;
+    background: #1d1f1d;
+    color: #fff;
+    outline: none;
+}
+
+@keyframes change {
+    	0%  { color:  #0f0; }
+    	50% { color:  #0f0; }
+    	99% { color: black; }
+}
