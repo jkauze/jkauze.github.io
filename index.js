@@ -1,12 +1,10 @@
-// Speed => typerSpeed | isTag => Boolean | text => text to show
+// Speed: typerSpeed | isTag: Boolean (to not take the html in txt) | text => text to read/show
 var i = 0;
 var text, isTag;
 var speed = 9;
-// var activeAnswer = false;
-// var verify = true;
 var idhtml = 'console'
 
-// Getting the jkCV.txt
+// Typer get the .txt to read the content
 var Typer = {
     text: null,
     file: "",
@@ -18,12 +16,12 @@ var Typer = {
     },
 }
 
-// set the file to read
+// set the initial file to read
 Typer.file = "jkCV.txt";
 Typer.init();
 
 
-// TypeWriter Effect
+// TypeWriter Effect function
 function typeWriter() {
     text = Typer.text.slice(0, ++i);
     if (text === Typer.text) return;
@@ -37,7 +35,7 @@ function typeWriter() {
     setTimeout(typeWriter, speed);
 }
 
-// Prevent default form and show skills
+// Prevent default form and skills Options with prompt
 function mySubmitFunction(e) {
     e.preventDefault();
     i = 0
@@ -58,8 +56,3 @@ function mySubmitFunction(e) {
     typeWriter();
     return false;
 }
-
-
-
-
-
