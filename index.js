@@ -3,6 +3,7 @@ var i = 0;
 var text, isTag;
 var speed = 24;
 var idhtml = 'console'
+var random = true
 
 // Typer get the .txt to read the content
 var Typer = {
@@ -12,14 +13,14 @@ var Typer = {
         $.get(Typer.file, function (data) {
             Typer.text = data;
             Typer.text = Typer.text.slice(0, Typer.text.length - 1);
+        typeWriter();
         });
     },
 }
 
 // set the initial file to read
 Typer.file = "jkCV.txt";
-Typer.init();
-
+Typer.init()
 
 // TypeWriter Effect function
 function typeWriter() {
@@ -53,6 +54,4 @@ function mySubmitFunction(e) {
     }
     document.getElementById('technologies').disabled = true
     Typer.init();
-    typeWriter();
-    return false;
 }

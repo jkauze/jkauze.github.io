@@ -2,7 +2,7 @@ body {
 	background-color: #1d1f1d
 }
 
-#console {
+#console2 {
 	font-family: courier, monospace;
 	color: #fff;
 	width:800px;
@@ -10,16 +10,11 @@ body {
 	margin-right:auto;
 	margin-top:50px;
 	font-size:14px;
-}
-
-#skillsconsole {
-	font-family: courier, monospace;
-	color: #fff;
-	width:800px;
-	margin-left:auto;
-	margin-right:auto;
-	margin-top:10px;
-	font-size:14px;
+	border: 1px solid #ff0096;
+	padding: 30px;
+	-webkit-box-shadow: 1px 1px 9px 5px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 1px 9px 5px rgba(0,0,0,0.75);
+	box-shadow: 1px 1px 9px 5px rgba(0,0,0,0.75);
 }
 
 a {
