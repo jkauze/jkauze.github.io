@@ -6,6 +6,3 @@ Its a simple but beatty single personal page, no Angular, no React, or any other
 Enjoy! :smile:
 
 *JK*
-
-In M
-
