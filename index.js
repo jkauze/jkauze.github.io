@@ -1,7 +1,7 @@
 // Speed => typerSpeed | isTag => Boolean | text => text to show
 var i = 0;
 var text, isTag;
-var speed = 4;
+var speed = 9;
 // var activeAnswer = false;
 // var verify = true;
 var idhtml = 'console'
