@@ -28,7 +28,7 @@ Vercel now
 <br /><br />
 
 <span id="pink">[HIBRYD APPS]</span>
-Ionic 4 <span id="pink">|</span>
+Ionic 4
 <br /><br />
 
 <span id="pink">[Others]</span>
