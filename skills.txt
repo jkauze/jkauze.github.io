@@ -2,7 +2,6 @@
 Angular 8 <span id="pink">|</span>
 Django <span id="pink">|</span>
 HTML <span id="pink">|</span>
-Javascript <span id="pink">|</span>
 CSS <span id="pink">|</span>
 handlerbars <span id="pink">|</span>
 webpack
@@ -13,6 +12,9 @@ NodeJs <span id="pink">|</span>
 Django <span id="pink">|</span>
 Firebase/Firestore <span id="pink">|</span>
 PostgreSql <span id="pink">|</span>
+IBM cloud Storage <span id="pink">|</span>
+TypeScript <span id="pink">|</span>
+Javascript <span id="pink">|</span>
 MongoDB
 <br /><br />
 
@@ -24,6 +26,8 @@ Terraform <span id="pink">|</span>
 Kubernetes <span id="pink">|</span>
 Aws: EC2, ECC, RDS <span id="pink">|</span>
 Digital Ocen <span id="pink">|</span>
+IBM developer Tools <span id="pink">|</span>
+IBM cloud Foundry <span id="pink">|</span>
 Vercel now
 <br /><br />
 
