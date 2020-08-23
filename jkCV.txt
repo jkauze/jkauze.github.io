@@ -2,7 +2,7 @@
 <span id="dollar">$</span> cd ~About_me/<br />
 
 <span id="green">Jesus@Kauze</span>:<span id="pink">~/About_me</span>
-<span id="dollar">$</span> cat JesuKauzeCV.txt<br /><br />
+<span id="dollar">$</span> cat JesusKauzeCV.txt<br /><br />
 
 <!-- Presentation  -->
 HELL0 Fr13Nd! let me introduce myself, i am Jesus Kauze, but you can tell me <span id="green">JK</span><br /><br />
