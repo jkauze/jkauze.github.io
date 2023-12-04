@@ -27,14 +27,12 @@ HELL0 Fr13Nd! let me introduce myself, i am Jesus Kauze, but you can tell me <sp
   <br />
   <a href="https://www.linkedin.com/in/jesus-elias-kauze-basanta-2250a197/" target="_blank">LinkedIn</a> <br />
   <a href="https://github.com/jkauze" target="_blank">Github</a><br />
-  <a href="https://dev.to/jkauze" target="_blank">Dev.to</a><br />
-  <a href="https://twitter.com/j_kauze" target="_blank">Twitter</a>
 </p>
 <br />
 
 <!-- Email and contact -->
 <span id="pink">[CONTACT]</span><br />
-<p>Want to contact me? send me an email my Fr13Nd: <a href="mailto: jesuskauze@gmail.com">jesuskauze@gmail.com</a>.</p>
+<p>Want to contact me? send me an linkedin message my Fr13Nd.</p>
 <p>Happy C0d3!</p>
 
 <span id="green">Jesus@Kauze</span>:<span id="pink">~/About_me</span>
