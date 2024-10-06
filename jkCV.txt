@@ -5,34 +5,34 @@
 <span id="dollar">$</span> cat JesusKauzeCV.txt<br /><br />
 
 <!-- Presentation  -->
-HELL0 Fr13Nd! let me introduce myself, i am Jesus Kauze, but you can tell me <span id="green">JK</span><br /><br />
+HELL0 Fr13Nd! let me introduce myself, i am Jesus Kauze (<span id="green">JK</span>)<br /><br />
 
 <!-- Experience -->
 <span id="pink">[ABOUT ME]</span><br />
-<p>I'm Computer engineering student from University Simon Bolivar (USB). Enthusiastic Devops and Developer  | Living in Venezuela.</p>
-<p>I have experience in fields like Backend/Frontend Developer, Mobile Development, Linux Administratror, Devops. Currently I am still
-    learning different technologies and languages that catch my attention (especially in the area of devops). Here is my <a href="https://github.com/jkauze" target="_blank">
+<p>I'm Computer engineering student from University Simon Bolivar (USB). Enthusiastic Devops/SRE and Developer  | Living in <a href="https://en.wikipedia.org/wiki/Venezuela">Venezuela</a>.</p>
+<p>I have experience in fields like Backend/Frontend Developer (Not interested), Devops, Cloud Engineer, Web3 Infrastructure. Currently I am still
+    learning different technologies and languages that catch my attention (especially in the area of DevOps). Here is my <a href="https://github.com/jkauze" target="_blank">
     portfolio</a>.</p>
 
 <!-- Hobbies -->
 <p>I am a member of the best group at my university: <span id="pink">M.A.C / L.D.A.C.</span> since 2016. We're a family of systems administrators preparers, keep updated and
-     available laboratories on the ground floor in MYS. I love practice , optimize software and teach about Linux</p>
+     available laboratories. I love to practice, optimize software and teach about Devops and Cloud </p>
 
-<p>In my free time I usually try new technologies and apply them to my personal projects (I like to dockerized everything).</p><br />
+<p>In my free time I usually try new technologies and apply them to my personal projects.</p><br />
 
 <!-- Info URLS-->
 <span id="pink">[PROFILES]</span><br />
 <p>
     Here are my others profiles:
   <br />
-  <a href="https://www.linkedin.com/in/jesus-elias-kauze-basanta-2250a197/" target="_blank">LinkedIn</a> <br />
+  <a href="https://www.linkedin.com/in/jesuskauze/" target="_blank">LinkedIn</a> <br />
   <a href="https://github.com/jkauze" target="_blank">Github</a><br />
 </p>
 <br />
 
 <!-- Email and contact -->
 <span id="pink">[CONTACT]</span><br />
-<p>Want to contact me? send me an linkedin message my Fr13Nd.</p>
+<p>Want to contact me? Send me an linkedin message my Fr13Nd.</p>
 <p>Happy C0d3!</p>
 
 <span id="green">Jesus@Kauze</span>:<span id="pink">~/About_me</span>
