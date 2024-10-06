@@ -44,6 +44,7 @@ Cloudwatch <span id="pink">|</span>
 Cloudtrail <span id="pink">|</span>
 Api Gateway <span id="pink">|</span>
 Cost Explorer
+<br /><br />
 
 <span id="pink">[OTHERS]</span>
 Git <span id="pink">|</span>
