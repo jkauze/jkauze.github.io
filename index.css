@@ -55,3 +55,43 @@ input[type=text] {
     	50% { color:  #0f0; }
     	99% { color: black; }
 }
+
+/* Light Mode Styles */
+body.light-mode {
+	background-color: #ffffff;
+}
+
+#console2.light-mode {
+	color: #000000;
+	border: 1px solid #cccccc;
+	-webkit-box-shadow: 1px 1px 9px 5px rgba(0,0,0,0.25);
+	-moz-box-shadow: 1px 1px 9px 5px rgba(0,0,0,0.25);
+	box-shadow: 1px 1px 9px 5px rgba(0,0,0,0.25);
+}
+
+a.light-mode,
+#goodbye.light-mode {
+	color: #0000ee;
+}
+
+#green.light-mode {
+	color: #008000;
+}
+
+#dollar.light-mode {
+	color: #007799;
+}
+
+#pink.light-mode {
+	color: #c71585;
+}
+
+#op.light-mode {
+    	color: #555555;
+}
+
+input[type=text].light-mode {
+    border: 1px solid #cccccc;
+    background: #ffffff;
+    color: #000000;
+}

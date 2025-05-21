@@ -54,3 +54,58 @@ function mySubmitFunction(e) {
     document.getElementById('technologies').disabled = true
     Typer.init();
 }
+
+// Theme Toggling Logic
+const bodyElement = document.body; // document.body is generally safe to access early
+
+document.addEventListener('DOMContentLoaded', function() {
+    const themeToggleButton = document.getElementById('theme-toggle');
+    const console2Element = document.getElementById('console2');
+
+    function applySavedTheme() {
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme === 'light') {
+            bodyElement.classList.add('light-mode');
+            if (console2Element) {
+                console2Element.classList.add('light-mode');
+            }
+        } else {
+            // Default to dark mode if no theme saved or if saved theme is 'dark'
+            bodyElement.classList.remove('light-mode');
+            if (console2Element) {
+                console2Element.classList.remove('light-mode');
+            }
+        }
+    }
+
+    function toggleTheme() {
+        bodyElement.classList.toggle('light-mode');
+        if (console2Element) {
+            console2Element.classList.toggle('light-mode');
+        }
+
+        if (bodyElement.classList.contains('light-mode')) {
+            localStorage.setItem('theme', 'light');
+        } else {
+            localStorage.setItem('theme', 'dark');
+        }
+    }
+
+    // Apply saved theme on initial load
+    if (console2Element) { // Ensure console2Element exists before trying to apply themes to it
+        applySavedTheme();
+    } else {
+        // If console2 is critical, might need to wait or use MutationObserver.
+        // For now, applySavedTheme has null checks, so body theme will apply.
+        // Call it anyway for body, and console2 will be handled if it appears later by toggle.
+        applySavedTheme(); 
+        console.warn("#console2 element not found during initial theme application. Body theme applied.");
+    }
+
+    // Add click listener for the toggle button
+    if (themeToggleButton) {
+        themeToggleButton.addEventListener('click', toggleTheme);
+    } else {
+        console.error("Theme toggle button not found.");
+    }
+});
