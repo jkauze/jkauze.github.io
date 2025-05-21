@@ -95,3 +95,28 @@ input[type=text].light-mode {
     background: #ffffff;
     color: #000000;
 }
+
+/* Theme Toggle Icon Styles */
+#sun-icon,
+#moon-icon {
+    font-size: 1.2em; /* Adjust as needed */
+    cursor: pointer; /* Indicate it's clickable, though the button itself is */
+}
+
+/* Default (Dark Mode) Icon Display */
+/* Show sun icon (to switch to light mode), hide moon icon */
+body #sun-icon {
+    display: inline;
+}
+body #moon-icon {
+    display: none;
+}
+
+/* Light Mode Icon Display */
+/* Hide sun icon, show moon icon (to switch to dark mode) */
+body.light-mode #sun-icon {
+    display: none;
+}
+body.light-mode #moon-icon {
+    display: inline;
+}
