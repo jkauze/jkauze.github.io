@@ -4,54 +4,87 @@ I don't do frontend anymore :)
 
 <span id="pink">[BACKEND/SCRIPTING]</span>
 NodeJs <span id="pink">|</span>
-Django <span id="pink">|</span>
 TypeScript <span id="pink">|</span>
 Javascript <span id="pink">|</span>
+Go <span id="pink">|</span>
+Python <span id="pink">|</span>
+Bash <span id="pink">|</span>
 PostgreSql <span id="pink">|</span>
 MongoDB <span id="pink">|</span>
+Apache Pulsar
 <br /><br />
 
-<span id="pink">[DEVOPS/SRE/TOOLS]</span>
-Docker <span id="pink">|</span>
-Jenkins CI/CD<span id="pink">|</span>
-Ansible <span id="pink">|</span>
-Terraform <span id="pink">|</span>
+<span id="pink">[DEVOPS/PLATFORM]</span>
 Kubernetes <span id="pink">|</span>
+Helm <span id="pink">|</span>
+ArgoCD (GitOps) <span id="pink">|</span>
+Terraform <span id="pink">|</span>
 Crossplane <span id="pink">|</span>
-ArgoCD <span id="pink">|</span>
-Digital Ocen <span id="pink">|</span>
+ACK <span id="pink">|</span>
+Ansible <span id="pink">|</span>
+Docker <span id="pink">|</span>
+Istio Service Mesh <span id="pink">|</span>
+Traefik <span id="pink">|</span>
+KrakenD <span id="pink">|</span>
+Karpenter <span id="pink">|</span>
+Kubernetes Operators (Go) <span id="pink">|</span>
 CI/CD Github Actions <span id="pink">|</span>
-Vercel <span id="pink">|</span>
-NX (Monorepos) <span id="pink">|</span>
-AWS
+GitLab CI <span id="pink">|</span>
+NX (Monorepos)
+<br /><br />
+
+<span id="pink">[OBSERVABILITY]</span>
+Prometheus <span id="pink">|</span>
+Grafana <span id="pink">|</span>
+Thanos <span id="pink">|</span>
+Loki <span id="pink">|</span>
+OpenTelemetry <span id="pink">|</span>
+Jaeger <span id="pink">|</span>
+FluentBit <span id="pink">|</span>
+New Relic <span id="pink">|</span>
+Datadog
+<br /><br />
+
+<span id="pink">[SECURITY/COMPLIANCE]</span>
+SOC 2 Type II <span id="pink">|</span>
+Kyverno <span id="pink">|</span>
+Trivy <span id="pink">|</span>
+SonarQube <span id="pink">|</span>
+External Secrets <span id="pink">|</span>
+LitmusChaos <span id="pink">|</span>
+k6
 <br /><br />
 
 <span id="pink">[AWS CLOUD]</span>
 EKS <span id="pink">|</span>
-EC2 <span id="pink">|</span>
 ECS <span id="pink">|</span>
+EC2 <span id="pink">|</span>
 RDS <span id="pink">|</span>
 S3 <span id="pink">|</span>
 Lambda <span id="pink">|</span>
-Guarduty <span id="pink">|</span>
+Api Gateway <span id="pink">|</span>
+GuardDuty <span id="pink">|</span>
+Security Hub <span id="pink">|</span>
 AWS Organizations <span id="pink">|</span>
 Cloudfront <span id="pink">|</span>
+ElastiCache <span id="pink">|</span>
+Athena <span id="pink">|</span>
 IAM <span id="pink">|</span>
 KMS <span id="pink">|</span>
 VPC <span id="pink">|</span>
 Route53 <span id="pink">|</span>
 Cloudwatch <span id="pink">|</span>
 Cloudtrail <span id="pink">|</span>
-Api Gateway <span id="pink">|</span>
-Cost Explorer
+Cost Explorer <span id="pink">|</span>
+GCP
 <br /><br />
 
 <span id="pink">[OTHERS]</span>
 Git <span id="pink">|</span>
-Python <span id="pink">|</span>
-Bash <span id="pink">|</span>
 Networking <span id="pink">|</span>
-Gnu/Linux
+Gnu/Linux <span id="pink">|</span>
+Blockchain Nodes (BTC, ETH, ADA, BNB) <span id="pink">|</span>
+AI Dev Workflows (Claude, MCP)
 <br /><br />
 
 <span id="green">Jesus@Kauze</span>:<span id="pink">~/About_me</span>

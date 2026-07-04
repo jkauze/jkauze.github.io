@@ -9,14 +9,13 @@ HELL0 Fr13Nd! let me introduce myself, i am Jesus Kauze (<span id="green">JK</sp
 
 <!-- Experience -->
 <span id="pink">[ABOUT ME]</span><br />
-<p>I'm Computer engineering student from University Simon Bolivar (USB). Enthusiastic Devops/SRE and Developer  | Living in <a href="https://en.wikipedia.org/wiki/Venezuela">Venezuela</a>.</p>
-<p>I have experience in fields like Backend/Frontend Developer (Not interested), Devops, Cloud Engineer, Web3 Infrastructure. Currently I am still
-    learning different technologies and languages that catch my attention (especially in the area of DevOps). Here is my <a href="https://github.com/jkauze" target="_blank">
+<p>I'm a Computer Engineer from Simon Bolivar University (USB). DevOps / Platform Engineer &amp; Backend Engineer | Living in <a href="https://en.wikipedia.org/wiki/Venezuela">Venezuela</a>, open to remote work and relocation.</p>
+<p>I currently lead a 5-person infrastructure team building the cloud platform behind an institutional crypto trading company: Kubernetes (EKS), GitOps, IaC, observability and SOC 2 compliance. I like building platforms where developers can ship without having to learn Kubernetes. Also into Web3 infrastructure (we ran BTC, ETH, ADA and BNB nodes). Here is my <a href="https://github.com/jkauze" target="_blank">
     portfolio</a>.</p>
 
 <!-- Hobbies -->
-<p>I am a member of the best group at my university: <span id="pink">M.A.C / L.D.A.C.</span> since 2016. We're a family of systems administrators preparers, keep updated and
-     available laboratories. I love to practice, optimize software and teach about Devops and Cloud </p>
+<p>I was a member of the best group at my university: <span id="pink">M.A.C / L.D.A.C.</span> (2016-2022). We're a family of systems administrators, keeping the laboratories updated and
+     available. I love to practice, optimize software and teach about DevOps and Cloud </p>
 
 <p>In my free time I usually try new technologies and apply them to my personal projects.</p><br />
 
